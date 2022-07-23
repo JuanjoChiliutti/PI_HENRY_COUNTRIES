@@ -1,0 +1,28 @@
+.navBar {
+    justify-content: space-around;
+    background-color: grey;
+}
+.home {
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+.countryCard{
+    background-color: rgb(91, 87, 87);
+    border-radius: 5%;
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+    box-shadow: 20px 20px 20px black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: none;
+}
+
+.flag{
+    height: 45%;
+    width: 70%;
+}
+

@@ -1,0 +1,20 @@
+
+
+.landing {
+    background-image: cover;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0;
+    margin: 0;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+}
+
+.imagenmundo {
+    margin-left: 30px;
+    background-color: grey;
+    width: 90%;
+    height: auto;
+}

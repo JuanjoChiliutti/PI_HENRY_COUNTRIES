@@ -1,0 +1,57 @@
+
+.createbar {
+    background-color: rgb(44, 45, 44);
+    color: rgb(196, 188, 188);
+    font-size: 15px;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 90px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+.countryVs {
+    background-color: grey;
+    justify-content: center;
+    height: 100%;
+    padding-bottom: 30px;   
+}
+
+.newactivity{
+    align-items: center;
+    background-color: rgb(91, 87, 87);
+    border-radius: 5%;
+    width: 700px;
+    margin: 30px;
+    box-shadow: 20px 20px 20px black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.btncreate {
+    margin-top: 30px;
+    color: black;
+    background-color: dimgrey;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+:hover.btncreate {
+    color: white;
+    background-color: rgb(44, 45, 44);
+    border-color: rgb(44, 45, 44);
+}
+
+.mapeo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

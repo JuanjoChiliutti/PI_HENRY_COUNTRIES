@@ -1,0 +1,21 @@
+
+.html {
+    background-color: grey;
+    align-items: center;
+}
+
+.countryVs {
+    align-items: center;
+    background-color: grey;
+    height: 700px;
+    width: 100%;
+    
+}
+.name {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px ;
+}
